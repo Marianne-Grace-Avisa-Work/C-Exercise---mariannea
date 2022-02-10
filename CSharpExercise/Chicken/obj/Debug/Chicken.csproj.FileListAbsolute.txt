@@ -1,0 +1,6 @@
+G:\Other computers\IICS FILES\IICS Files\OTHERS\Internship\Realtair\Exercise\C#\CSharpExercise\Chicken\obj\Debug\Chicken.csproj.CoreCompileInputs.cache
+G:\Other computers\IICS FILES\IICS Files\OTHERS\Internship\Realtair\Exercise\C#\CSharpExercise\Chicken\bin\Debug\Chicken.exe.config
+G:\Other computers\IICS FILES\IICS Files\OTHERS\Internship\Realtair\Exercise\C#\CSharpExercise\Chicken\bin\Debug\Chicken.exe
+G:\Other computers\IICS FILES\IICS Files\OTHERS\Internship\Realtair\Exercise\C#\CSharpExercise\Chicken\bin\Debug\Chicken.pdb
+G:\Other computers\IICS FILES\IICS Files\OTHERS\Internship\Realtair\Exercise\C#\CSharpExercise\Chicken\obj\Debug\Chicken.exe
+G:\Other computers\IICS FILES\IICS Files\OTHERS\Internship\Realtair\Exercise\C#\CSharpExercise\Chicken\obj\Debug\Chicken.pdb
